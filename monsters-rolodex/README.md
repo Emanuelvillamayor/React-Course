@@ -1,4 +1,4 @@
-# Monsters-Rolodex `:atom:`
+# Monsters-Rolodex
 Initial simple React App to explore this technologies key concepts.
 
 Final application:
